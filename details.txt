@@ -10,7 +10,7 @@ typescript install and 10 datatypes:
     -Iterable<T>
     -Extract<T, U>
     -WeakMap<K extends object, V>
-    -Namespaces
+    -Namespaces.
 
 
 
