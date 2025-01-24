@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/DhanvanthBalakrishna/Documents/FE Angular and Typescript/typescript",
-      "program": "c:/Users/DhanvanthBalakrishna/Documents/FE Angular and Typescript/typescript/build/Debug/outDebug",
+      "cwd": "c:/Users/sbdha/OneDrive/Documents/typescript",
+      "program": "c:/Users/sbdha/OneDrive/Documents/typescript/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -1,4 +1,5 @@
---------------------------jan23--------------------------------------------
+----------------------------------------------------------------------
+
 typescript install and 10 datatypes:
 
     -number**
@@ -6,12 +7,14 @@ typescript install and 10 datatypes:
     -Intersection (T & U)**
     -ReadonlyMap<K, V>**
     -RegExp**
-    -Indexed access types (T[K])
-    -Iterable<T>
-    -Extract<T, U>
-    -WeakMap<K extends object, V>
-    -Namespaces.
+    -Indexed access types (T[K])**
+    -Iterable<T>**
+    -Extract<T, U>**
+    -WeakMap<K extends object, V>**
+    -Namespaces.**
 
+----------------------------------------------------------------------
+----typescript class ==> /0/2025
 
 
 
